@@ -5,13 +5,12 @@
 - 📫 You can contact me with dorian.bernard2027@gmail.com
 
 A lot of my projects are currently made with subversion: and will not be present on Git:
-- Soft Discovery Engine (En Cours)
-- SoftDiscovery.fr
+- Soft Discovery Engine - C++, DirectX
+- SoftDiscovery.fr (Closed)
 - Wonders Of The Past
 - Endless Cruise
 - Fragments Of Lethee
-- Space School Adventure (En Cours)
-- Soft Discovery Launcher (En attente)
+- Space School Adventure
 
 If u want to see them, contact me at dorian.bernard2027@gmail.com.
 
